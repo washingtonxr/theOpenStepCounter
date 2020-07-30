@@ -1,0 +1,3 @@
+#ifndef CF_sldemo_raccel_engine_idle_speed_H__
+#define CF_sldemo_raccel_engine_idle_speed_H__
+#endif
